@@ -1,5 +1,5 @@
 # MA_js
-Materials from Makers Academy week 5: intro to js
+Materials from Makers Academy weeks 5 & 7 (Javascript weeks).
 
 ## Week 5 - Intro to JS
 
