@@ -1,5 +1,10 @@
 # MA_js
-Materials from Makers Academy weeks 5 & 7 (Javascript weeks). I've cloned the relevant files and sub-repos into this project, but that might mean some links are broken. Especially the "pill" links. So whenever you see the 💊 next to a link, you can find the relevant file in the "pills" folder of this repo. 
+Materials from Makers Academy weeks 5 & 7 (Javascript weeks). I've cloned the relevant files into this project, but that might mean some links are broken. Especially the "pill" links. So whenever you see the 💊 next to a link, you can find the relevant file in the "pills" folder of this repo. 
+
+## A quick intro to how this "learning path" works
+Basically, every week has an overarching topic and set of goals. During the week, we pair programmed over the "afternoons" challenges. In the mornings, we did a standup and then skills workshops or practicals. So, my suggestion would be to start by going through the "afternoons" challenges. That's the main bit of learning really. And then mix in the practicals and skills workshops as desired. 
+
+It's a different sort of learning in general I guess. Very learn by doing. Each challenge just tells you what you should aim to achieve and then provides links to relevant guidance. The goal is to try and do it without looking at walkthroughs. Though of course, if you get stuck on smth for more than 20 min, just look at the walkthrough, it's there to help. 
 
 ## Week 5 - Intro to JS
 
