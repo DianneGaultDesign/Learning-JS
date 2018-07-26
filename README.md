@@ -1,5 +1,5 @@
 # MA_js
-Materials from Makers Academy weeks 5 & 7 (Javascript weeks).
+Materials from Makers Academy weeks 5 & 7 (Javascript weeks). I've cloned the relevant files and sub-repos into this project, but that might mean some links are broken. Especially the "pill" links. So whenever you see the 💊 next to a link, you can find the relevant file in the "pills" folder of this repo. 
 
 ## Week 5 - Intro to JS
 
@@ -10,8 +10,8 @@ By the end of the week all developers can:
 
 ### Challenges
 
-* [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/master/thermostat/README.md)
-* [Weekend - Bowling](https://diode.makersacademy.com/students/neoeno/projects/32)
+* [Afternoons - Thermostat](https://github.com/DagmaraSz/MA_js/blob/master/thermostat/README.md)
+* [Weekend - Bowling](https://github.com/DagmaraSz/MA_js/blob/master/bowling_challenge.md)
 
 ### Practicals
 
@@ -21,10 +21,10 @@ By the end of the week all developers can:
 
 ### Skills workshops
 
-* [Encapsulation with the constructor & prototype pattern](https://github.com/makersacademy/skills-workshops/tree/master/week-5/encapsulation_with_constructor_and_prototype_pattern)
-* [Following the flow and getting visibility](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_the_flow_and_getting_visibility_in_javascript)
-* [Following the Ajax request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_ajax_request_response_cycle)
-* [Callbacks and following the flow of control](https://github.com/makersacademy/skills-workshops/tree/master/week-5/callbacks_following_the_flow_of_control)
+* [Encapsulation with the constructor & prototype pattern](https://github.com/DagmaraSz/MA_js/blob/master/skills-workshops-5/encapsulation_with_constructor_and_prototype_pattern)
+* [Following the flow and getting visibility](https://github.com/DagmaraSz/MA_js/blob/master/skills-workshops-5/following_the_flow_and_getting_visibility_in_javascript)
+* [Following the Ajax request/response cycle](https://github.com/DagmaraSz/MA_js/tree/master/skills-workshops-5/following_ajax_request_response_cycle)
+* [Callbacks and following the flow of control](https://github.com/DagmaraSz/MA_js/tree/master/skills-workshops-5/callbacks_following_the_flow_of_control)
 
 ### Resources
 
@@ -47,8 +47,8 @@ Most of the work and interventions we have run historically are meant to 'de-mag
 
 Note: they get the choice of morning goals / afternoon challenges vs all day project groups.
 
-* [Afternoons - Notes app](https://github.com/makersacademy/course/blob/master/further_javascript)
-* [Weekend - News summary](https://github.com/makersacademy/news-summary-challenge)
+* [Afternoons - Notes app](https://github.com/DagmaraSz/MA_js/blob/master/further_javascript/README.md)
+* [Weekend - News summary](https://github.com/DagmaraSz/MA_js/tree/master/news-summary-challenge)
 
 ### Practicals
 
@@ -59,5 +59,5 @@ Note: they get the choice of morning goals / afternoon challenges vs all day pro
 
 ### Skills workshops
 
-* [Javascript module pattern](https://github.com/makersacademy/skills-workshops/tree/master/week-7/javascript-module-pattern-workshop)
+* [Javascript module pattern](https://github.com/DagmaraSz/MA_js/tree/master/skills-workshop-7/javascript-module-pattern-workshop)
 
